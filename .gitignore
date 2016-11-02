@@ -2,6 +2,7 @@
 /_build
 /db
 /deps
+/config/dev.exs
 /*.ez
 
 # Generated on crash by the VM
